@@ -26,8 +26,7 @@ A hands-on multi-modal CLIP mini-course on **Google Colab**. No local setup—ju
 
 1. **Open** one of the badges above (or paste the notebook URL into Colab).  
 2. **Runtime ▶︎ Run all** — every dependency installs automatically.  
-3. **Upload** your images via the left-pane “Files” tab or mount Drive.  
-4. **Modify & explore!** Change prompts, visualize your own data, extend code.
+3. **Modify & explore!** Change prompts, visualize your own data, extend code.
 
 ---
 
