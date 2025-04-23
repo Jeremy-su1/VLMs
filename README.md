@@ -1,7 +1,7 @@
 # Vision–Language Modeling (VLM) Lecture Notebooks
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Jeremy-su1/VLMs/blob/main/1_CLIP_ZeroShot.ipynb)  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Jeremy-su1/VLMs/blob/main/2_CLIP_GradCAM.ipynb)
+1. CLIP ZeroShot [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Jeremy-su1/VLMs/blob/main/1_CLIP_ZeroShot.ipynb)  
+2. CLIP GradCAM [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Jeremy-su1/VLMs/blob/main/2_CLIP_GradCAM.ipynb)
 
 A hands-on multi-modal CLIP mini-course on **Google Colab**. No local setup—just click “Open in Colab” and run!
 
